@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node6" appversion="6.1.11" apprev="18043">
+  <panorama id="node7" hideabout="1">
+    <input levelbias="0.400" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0" width="1500" levelingpitch="0" height="1500" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata author="Sofonias L" longitude="" customnodeid="" copyright="Sofonias L" comment="" nodeid="node7" title="Station 2" source="" latitude="" tags="pano" description="Prepared by SOF Studio" datetime="2/4/2024 7:07 PM" heading="0" info=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0x000000" textalpha="1" border="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot target="-178.6/-2.1/70.0" id="1" pan="-359.67" skinid="ht_node" title="Station 1" url="{node6}" tilt="-18.04" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomin="6" zoomafteroutfov="20" zoomout="0" zoomfov="20" zoomafterinfov="90" blendtime="1" zoomspeed="3.5"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextfullscreen="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" rubberband="0" invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextprojections="1" lockedkeyboardzoom="0" hideabout="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbias="0.400" leveltilesize="510" overlap="1" levelbiashidpi="1.000" levelingroll="0" width="1500" levelingpitch="0" height="1500" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata author="Sofonias L" longitude="" customnodeid="" copyright="Sofonias L" comment="" nodeid="node6" title="Station 1" source="" latitude="" tags="pano" description="Prepared by SOF Studio" datetime="2/4/2024 7:06 PM" heading="0" info=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label enabled="1" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" background="1" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" textcolor="0x000000" textalpha="1" border="1" borderalpha="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="0"/>
+      <hotspot target="171.4/-1.3/70.0" id="2" pan="-4.14" skinid="ht_node" title="Station 2" url="{node7}" tilt="-18.46" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" softedge="0" blendcolor="0x000000" zoomoutpause="1" zoomin="6" zoomafteroutfov="20" zoomout="0" zoomfov="20" zoomafterinfov="90" blendtime="1" zoomspeed="3.5"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control contextfullscreen="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" simulatemass="1" rubberband="0" invertwheel="0" invertcontrol="1" sensitivity="8" lockedmouse="0" lockedkeyboard="0" contextprojections="1" lockedkeyboardzoom="0" hideabout="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="Sofonias L" longitude="" customnodeid="" copyright="Sofonias L" comment="" nodeid="master" title="Office Duo" source="" latitude="" tags="" description="Prepared by SOF Studio" datetime="" heading="0" info=""/>
+  </masternode>
+  <map type="file" tileformat="jpg" transparent="0" id="FloorPlan01" title="Bathroom Floor Plan" width="0" height="0" bgcolor="rgba(255, 255, 255, 1)" zoomlevels="1" floorplannorth="220"/>
+</tour>
